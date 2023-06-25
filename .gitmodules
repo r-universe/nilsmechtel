@@ -5,6 +5,6 @@
 	branch = HEAD
 [submodule "MetAlyzer"]
 	path = MetAlyzer
-	url = https://github.com/cran/MetAlyzer
+	url = https://github.com/nilsmechtel/metalyzer
 	shallow = true
 	registered = true
